@@ -3,7 +3,7 @@
 Summary:	Interpreted string literals
 Name:		R-cran-%{modulename}
 Version:	1.8.0
-Release:	1
+Release:	2
 License:	MIT
 Group:		Applications/Math
 Source0:	https://cran.r-project.org/src/contrib/%{modulename}_%{fversion}.tar.gz
